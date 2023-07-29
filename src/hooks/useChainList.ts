@@ -12,6 +12,11 @@ export default function() {
       network: "mainnet",
       rpc: ["https://dataseed.popcateum.org"],
     },
+    // {
+    //   name: "Dogeum",
+    //   network: "mainnet",
+    //   rpc: ["http://192.168.0.120:8545"],
+    // },
   ]);
 
   // uncomment once we add 'chain list provider' concept. This list blows.
